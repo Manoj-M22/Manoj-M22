@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Manoj-M22
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Python
+
+<!---
+Manoj-M22/Manoj-M22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
